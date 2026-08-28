@@ -66,4 +66,3 @@ The environment is designed around a segmented VPC containing public and private
               │ GuardDuty               │
               └─────────────────────────┘# secure-aws-cloud-architecture
 Secure AWS cloud architecture demonstrating VPC, EC2, IAM, KMS, CloudTrail and GuardDuty.
-
